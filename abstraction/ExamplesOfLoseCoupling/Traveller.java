@@ -20,5 +20,5 @@ public class Traveller {
 	public void speedLimit(Vehicle v){
 		v.speed();
 	}
-
+	// we can also add this method in upper method called startJourney
 }
